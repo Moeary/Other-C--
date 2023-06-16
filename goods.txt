@@ -1,0 +1,11 @@
+1 cola 999 3.5
+1 video-game 100 648
+3 watch 100 29.9 blue
+1 pen 100 0.5
+1 dress 1020 49.9
+1 shoes 40 89.9
+3 headphones 80 39.9 white
+1 jeans 80 29.9
+1 hat 50 8.5
+2 chips 150 2.5 30days
+1 umbrella 30 19.9
